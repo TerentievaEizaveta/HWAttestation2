@@ -1,0 +1,5 @@
+Ball 3 0.15
+Doll 3 0.15
+Robot 6 0.3
+Car 5 0.25
+Drum 3 0.15
